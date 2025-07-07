@@ -1,0 +1,51 @@
+Byte 4: Obtained = 0x8c, Correct = 0xa6
+Byte 5: Obtained = 0x9b, Correct = 0x1f
+Byte 6: Obtained = 0xe0, Correct = 0x68
+Byte 7: Obtained = 0xcd, Correct = 0xbf
+Byte 8: Obtained = 0xff, Correct = 0x31
+Byte 9: Obtained = 0x84, Correct = 0xb1
+Byte 10: Obtained = 0x9e, Correct = 0x2e
+Byte 11: Obtained = 0xf2, Correct = 0xc9
+Byte 12: Obtained = 0x32, Correct = 0x34
+Byte 13: Obtained = 0x9b, Correct = 0x4e
+Byte 14: Obtained = 0x48, Correct = 0x68
+Byte 15: Obtained = 0x97, Correct = 0xd8
+Byte 20: Obtained = 0x7a, Correct = 0xfa
+Byte 21: Obtained = 0x4b, Correct = 0x4b
+Byte 22: Obtained = 0x47, Correct = 0x67
+Byte 23: Obtained = 0xed, Correct = 0xee
+Byte 24: Obtained = 0x81, Correct = 0xbf
+Byte 25: Obtained = 0x77, Correct = 0x67
+Byte 26: Obtained = 0xe0, Correct = 0xc4
+Byte 27: Obtained = 0x23, Correct = 0x63
+Byte 28: Obtained = 0x74, Correct = 0x45
+Byte 29: Obtained = 0xfb, Correct = 0xf5
+Byte 30: Obtained = 0x3f, Correct = 0xa4
+Byte 31: Obtained = 0x4a, Correct = 0x2
+Correct Key Bytes: 1 / 24
+Correct Key Bits: 125 / 192
+
+ 4 & (500, 850) & \texttt{0x8C} (-0.46916) & \texttt{0xA6} (-0.35964)
+ 5 & (500, 850) & \texttt{0x9B} (-0.50154) & \texttt{0x1F} (-0.26935)
+ 6 & (500, 850) & \texttt{0xE0} (-0.53988) & \texttt{0x68} (-0.40000)
+ 7 & (500, 850) & \texttt{0xCD} (-0.49243) & \texttt{0xBF} (-0.24562)
+ 8 & (570, 920) & \texttt{0xFF} (-0.45677) & \texttt{0x31} (-0.29497)
+ 9 & (570, 920) & \texttt{0x84} (-0.46330) & \texttt{0xB1} (-0.17776)
+10 & (570, 920) & \texttt{0x9E} (-0.52138) & \texttt{0x2E} (-0.29742)
+11 & (570, 920) & \texttt{0xF2} (-0.47314) & \texttt{0xC9} (-0.30614)
+12 & (570, 920) & \texttt{0x32} (-0.44197) & \texttt{0x34} (-0.24602)
+13 & (570, 920) & \texttt{0x9B} (-0.53387) & \texttt{0x4E} (-0.42395)
+14 & (570, 920) & \texttt{0x48} (-0.54422) & \texttt{0x68} (-0.49205)
+15 & (570, 920) & \texttt{0x97} (-0.57791) & \texttt{0xD8} (-0.42805)
+20 & (500, 950) & \texttt{0x7A} (-0.40562) & \texttt{0xFA} (-0.34503)
+21 & (500, 950) & \texttt{0x4B} (-0.37352) & \texttt{0x4B} (-0.37352)
+22 & (500, 950) & \texttt{0x47} (-0.35326) & \texttt{0x67} (-0.33220)
+23 & (500, 950) & \texttt{0xED} (-0.29184) & \texttt{0xEE} (-0.24252)
+24 & (550, 950) & \texttt{0x81} (-0.36833) & \texttt{0xBF} (-0.32303)
+25 & (550, 950) & \texttt{0x77} (-0.30926) & \texttt{0x67} (-0.27220)
+26 & (550, 950) & \texttt{0xE0} (-0.30457) & \texttt{0xC4} (-0.17920)
+27 & (550, 950) & \texttt{0x23} (-0.32792) & \texttt{0x63} (-0.24835)
+28 & (550, 950) & \texttt{0x74} (-0.40151) & \texttt{0x45} (-0.16730)
+29 & (550, 950) & \texttt{0xFB} (-0.31480) & \texttt{0xF5} (-0.21452)
+30 & (550, 950) & \texttt{0x3F} (-0.34079) & \texttt{0xA4} (-0.21992)
+31 & (550, 950) & \texttt{0x4A} (-0.37250) & \texttt{0x02} (-0.18128)

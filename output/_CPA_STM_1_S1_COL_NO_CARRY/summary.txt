@@ -1,0 +1,40 @@
+S1 Byte (Word 0, Byte 0): Obtained = 0xa9, Correct = 0xa9
+S1 Byte (Word 0, Byte 1): Obtained = 0x0, Correct = 0xb
+S1 Byte (Word 0, Byte 2): Obtained = 0xa3, Correct = 0xa3
+S1 Byte (Word 0, Byte 3): Obtained = 0x4a, Correct = 0x49
+S1 Byte (Word 4, Byte 0): Obtained = 0x16, Correct = 0x16
+S1 Byte (Word 4, Byte 1): Obtained = 0x47, Correct = 0x47
+S1 Byte (Word 4, Byte 2): Obtained = 0xda, Correct = 0xda
+S1 Byte (Word 4, Byte 3): Obtained = 0x8a, Correct = 0x89
+S1 Byte (Word 8, Byte 0): Obtained = 0xe7, Correct = 0xe7
+S1 Byte (Word 8, Byte 1): Obtained = 0x0, Correct = 0xfe
+S1 Byte (Word 8, Byte 2): Obtained = 0x2c, Correct = 0x2b
+S1 Byte (Word 8, Byte 3): Obtained = 0xaa, Correct = 0xaa
+S1 Byte (Word 12, Byte 0): Obtained = 0x88, Correct = 0x88
+S1 Byte (Word 12, Byte 1): Obtained = 0xd3, Correct = 0xc3
+S1 Byte (Word 12, Byte 2): Obtained = 0xc8, Correct = 0xc9
+S1 Byte (Word 12, Byte 3): Obtained = 0xe2, Correct = 0xe3
+Correct S1 Bytes: 8 / 16
+Correct S1 Bits: 108 / 128
+
+$S_1[0][0]$ & (0, 9168) & \texttt{0xA9} (-0.14573) & \texttt{0xA9} (-0.14573)
+$S_1[0][1]$ & (0, 9168) & \texttt{0x00} (-0.16833) & \texttt{0x0B} (-0.06023)
+$S_1[0][2]$ & (0, 9168) & \texttt{0xA3} (-0.22092) & \texttt{0xA3} (-0.22092)
+$S_1[0][3]$ & (0, 9168) & \texttt{0x4A} (-0.23469) & \texttt{0x49} (-0.18395)
+$S_1[4][0]$ & (0, 9168) & \texttt{0x16} (-0.23412) & \texttt{0x16} (-0.23412)
+$S_1[4][1]$ & (0, 9168) & \texttt{0x47} (-0.24857) & \texttt{0x47} (-0.24857)
+$S_1[4][2]$ & (0, 9168) & \texttt{0xDA} (-0.23598) & \texttt{0xDA} (-0.23598)
+$S_1[4][3]$ & (0, 9168) & \texttt{0x8A} (-0.26757) & \texttt{0x89} (-0.18036)
+$S_1[8][0]$ & (0, 9168) & \texttt{0xE7} (-0.18286) & \texttt{0xE7} (-0.18286)
+$S_1[8][1]$ & (0, 9168) & \texttt{0x00} (-0.13021) & \texttt{0xFE} (-0.10362)
+$S_1[8][2]$ & (0, 9168) & \texttt{0x2C} (-0.13406) & \texttt{0x2B} (-0.10493)
+$S_1[8][3]$ & (0, 9168) & \texttt{0xAA} (-0.17626) & \texttt{0xAA} (-0.17626)
+$S_1[12][0]$ & (0, 9168) & \texttt{0x88} (-0.40274) & \texttt{0x88} (-0.40274)
+$S_1[12][1]$ & (0, 9168) & \texttt{0xD3} (-0.20496) & \texttt{0xC3} (-0.20464)
+$S_1[12][2]$ & (0, 9168) & \texttt{0xC8} (-0.30047) & \texttt{0xC9} (-0.28757)
+$S_1[12][3]$ & (0, 9168) & \texttt{0xE2} (-0.28659) & \texttt{0xE3} (-0.28003)
+
+$S_1[8][0]$ & (0, 9168) & \texttt{0xF7} (-0.20354) & \texttt{0xE7} (-0.15615)
+$S_1[8][1]$ & (0, 9168) & \texttt{0xFF} (-0.22689) & \texttt{0xFE} (-0.09007)
+$S_1[8][2]$ & (0, 9168) & \texttt{0x2C} (-0.29259) & \texttt{0x2B} (-0.13148)
+$S_1[8][3]$ & (0, 9168) & \texttt{0xAA} (-0.32039) & \texttt{0xAA} (-0.32039)

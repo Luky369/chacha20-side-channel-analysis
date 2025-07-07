@@ -1,0 +1,40 @@
+S1 Byte (Word 0, Byte 0): Obtained = 0xc1, Correct = 0xc1
+S1 Byte (Word 0, Byte 1): Obtained = 0xb, Correct = 0xb
+S1 Byte (Word 0, Byte 2): Obtained = 0x41, Correct = 0x41
+S1 Byte (Word 0, Byte 3): Obtained = 0xaa, Correct = 0xaa
+S1 Byte (Word 4, Byte 0): Obtained = 0xac, Correct = 0xac
+S1 Byte (Word 4, Byte 1): Obtained = 0x14, Correct = 0x14
+S1 Byte (Word 4, Byte 2): Obtained = 0xfe, Correct = 0xfe
+S1 Byte (Word 4, Byte 3): Obtained = 0x29, Correct = 0x29
+S1 Byte (Word 8, Byte 0): Obtained = 0xb, Correct = 0xb
+S1 Byte (Word 8, Byte 1): Obtained = 0x65, Correct = 0x65
+S1 Byte (Word 8, Byte 2): Obtained = 0xc3, Correct = 0xc3
+S1 Byte (Word 8, Byte 3): Obtained = 0xa8, Correct = 0xa8
+S1 Byte (Word 12, Byte 0): Obtained = 0xd8, Correct = 0xd8
+S1 Byte (Word 12, Byte 1): Obtained = 0x71, Correct = 0x71
+S1 Byte (Word 12, Byte 2): Obtained = 0xb2, Correct = 0xb2
+S1 Byte (Word 12, Byte 3): Obtained = 0xde, Correct = 0xde
+Correct S1 Bytes: 16 / 16
+Correct S1 Bits: 128 / 128
+
+$S_1[0][0]$ &  (11500, 13000) & \texttt{0xC1} & -0.62419 &  \texttt{0xC7} & -0.61665 \\ \hline
+$S_1[0][1]$ &  (11500, 13000) & \texttt{0x0B} & -0.79250 &  \texttt{0x84} & -0.78594 \\ \hline
+$S_1[0][2]$ &  (11500, 13000) & \texttt{0x41} & -0.32036 &  \texttt{0x75} & -0.36801 \\ \hline
+$S_1[0][3]$ &  (11500, 13000) & \texttt{0xAA} & -0.57539 &  \texttt{0x0D} & -0.57781 \\ \hline
+$S_1[4][0]$ &  (18500, 20500) & \texttt{0xAC} & -0.59658 &  \texttt{0x80} & -0.56646 \\ \hline
+$S_1[4][1]$ &  (18500, 20500) & \texttt{0x14} & -0.81601 &  \texttt{0x3C} & -0.82004 \\ \hline
+$S_1[4][2]$ &  (18500, 20500) & \texttt{0xFE} & -0.22913 &  \texttt{0x51} & -0.22082 \\ \hline
+$S_1[4][3]$ &  (18500, 20500) & \texttt{0x29} & -0.55269 &  \texttt{0x6C} & -0.52822 \\ \hline
+$S_1[8][0]$ &  (16500, 17500) & \texttt{0x0B} & -0.67872 &  \texttt{0x29} & -0.65965 \\ \hline
+$S_1[8][1]$ &  (16500, 17500) & \texttt{0x65} & -0.69482 &  \texttt{0xF7} & -0.68971 \\ \hline
+$S_1[8][2]$ &  (16500, 17500) & \texttt{0xC3} & -0.65574 &  \texttt{0xE9} & -0.65024 \\ \hline
+$S_1[8][3]$ &  (16500, 17500) & \texttt{0xA8} & -0.68625 &  \texttt{0x7C} & -0.78440 \\ \hline
+$S_1[12][0]$ & (14000, 15500) & \texttt{0xD8} & -0.73162 &  \texttt{0x22} & -0.73616 \\ \hline
+$S_1[12][1]$ & (14000, 15500) & \texttt{0x71} & -0.81116 &  \texttt{0x83} & -0.81357 \\ \hline
+$S_1[12][2]$ & (14500, 15500) & \texttt{0xB2} & -0.23316 &  \texttt{0x15} & -0.23368 \\ \hline
+$S_1[12][3]$ & (14000, 15500) & \texttt{0xDE} & -0.69459 &  \texttt{0x02} & -0.83461 \\ \hline
+
+$S_1[8][0]$ & (16500, 17500) & \texttt{0x0B} (-0.79882) & \texttt{0x0B} (-0.79882)
+$S_1[8][1]$ & (16500, 17500) & \texttt{0x61} (-0.26677) & \texttt{0x65} (-0.24697)
+$S_1[8][2]$ & (16500, 17500) & \texttt{0xBD} (-0.35496) & \texttt{0xC3} (-0.25997)
+$S_1[8][3]$ & (16500, 17500) & \texttt{0xA8} (-0.69858) & \texttt{0xA8} (-0.69858)

@@ -1,0 +1,41 @@
+S1 Byte (Word 0, Byte 0): Obtained = 0xa9, Correct = 0xa9
+S1 Byte (Word 0, Byte 1): Obtained = 0xb, Correct = 0xb
+S1 Byte (Word 0, Byte 2): Obtained = 0xa3, Correct = 0xa3
+S1 Byte (Word 0, Byte 3): Obtained = 0x49, Correct = 0x49
+S1 Byte (Word 4, Byte 0): Obtained = 0x16, Correct = 0x16
+S1 Byte (Word 4, Byte 1): Obtained = 0x47, Correct = 0x47
+S1 Byte (Word 4, Byte 2): Obtained = 0xda, Correct = 0xda
+S1 Byte (Word 4, Byte 3): Obtained = 0x89, Correct = 0x89
+S1 Byte (Word 8, Byte 0): Obtained = 0xe7, Correct = 0xe7
+S1 Byte (Word 8, Byte 1): Obtained = 0xfe, Correct = 0xfe
+S1 Byte (Word 8, Byte 2): Obtained = 0x2b, Correct = 0x2b
+S1 Byte (Word 8, Byte 3): Obtained = 0xaa, Correct = 0xaa
+S1 Byte (Word 12, Byte 0): Obtained = 0x88, Correct = 0x88
+S1 Byte (Word 12, Byte 1): Obtained = 0xc3, Correct = 0xc3
+S1 Byte (Word 12, Byte 2): Obtained = 0xc9, Correct = 0xc9
+S1 Byte (Word 12, Byte 3): Obtained = 0xe3, Correct = 0xe3
+Correct S1 Bytes: 16 / 16
+Correct S1 Bits: 128 / 128
+
+$S_1[0][0]$ &  (0, 9168) & \texttt{0xA9} & -0.14573  & \texttt{0x4B} & -0.17930 \\ \hline
+$S_1[0][1]$ &  (0, 9168) & \texttt{0x0B} & -0.15590  & \texttt{0xF4} & -0.17333 \\ \hline
+$S_1[0][2]$ &  (0, 9168) & \texttt{0xA3} & -0.22676  & \texttt{0xC2} & -0.24748 \\ \hline
+$S_1[0][3]$ &  (0, 9168) & \texttt{0x49} & -0.27678  & \texttt{0xBB} & -0.29819 \\ \hline
+$S_1[4][0]$ &  (0, 9168) & \texttt{0x16} & -0.23412  & \texttt{0x55} & -0.23100 \\ \hline
+$S_1[4][1]$ &  (0, 9168) & \texttt{0x47} & -0.25957  & \texttt{0x15} & -0.27231 \\ \hline
+$S_1[4][2]$ &  (0, 9168) & \texttt{0xDA} & -0.27594  & \texttt{0xB7} & -0.26981 \\ \hline
+$S_1[4][3]$ &  (0, 9168) & \texttt{0x89} & -0.29293  & \texttt{0x1F} & -0.32021 \\ \hline
+$S_1[8][0]$ &  (0, 9168) & \texttt{0xE7} & -0.18286  & \texttt{0xC2} & -0.17670 \\ \hline
+$S_1[8][1]$ &  (0, 9168) & \texttt{0xFE} & -0.14081  & \texttt{0xDF} & -0.12905 \\ \hline
+$S_1[8][2]$ &  (0, 9168) & \texttt{0x2B} & -0.13349  & \texttt{0x83} & -0.17117 \\ \hline
+$S_1[8][3]$ &  (0, 9168) & \texttt{0xAA} & -0.18696  & \texttt{0x89} & -0.19095 \\ \hline
+$S_1[12][0]$ & (0, 9168) & \texttt{0x88} & -0.40274  & \texttt{0x89} & -0.33556 \\ \hline
+$S_1[12][1]$ & (0, 9168) & \texttt{0xC3} & -0.27837  & \texttt{0x4D} & -0.26314 \\ \hline
+$S_1[12][2]$ & (0, 9168) & \texttt{0xC9} & -0.35860  & \texttt{0x6C} & -0.34793 \\ \hline
+$S_1[12][3]$ & (0, 9168) & \texttt{0xE3} & -0.35728  & \texttt{0xA1} & -0.48676 \\ \hline
+ 
+$S_1[8][0]$ & (0, 9168) & \texttt{0xF7} (-0.20354) & \texttt{0xE7} (-0.15615)
+$S_1[8][1]$ & (0, 9168) & \texttt{0xFE} (-0.22807) & \texttt{0xFE} (-0.22807)
+$S_1[8][2]$ & (0, 9168) & \texttt{0x2B} (-0.29120) & \texttt{0x2B} (-0.29120)
+$S_1[8][3]$ & (0, 9168) & \texttt{0xAA} (-0.33689) & \texttt{0xAA} (-0.33689)
+$S_1[8][0]$ & (0, 9168) & \texttt{0xF7} (-0.20354) & \texttt{0xE7} (-0.15615)
